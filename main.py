@@ -5,7 +5,7 @@ import random
 import threading
 import time
 
-TOKEN = "8161107014:AAH1I0srDbneOppDw4AsE2kEYtNtk7CRjOw"
+TOKEN = "8414462570:AAFCA9dyGvC88y_GYYQXJT4GoDCBeDW0iZs"
 bot = telebot.TeleBot(TOKEN)
 
 user_balances = {}
